@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterStoreReload", "ParameterStoreReload\ParameterStoreReload.csproj", "{3C153C98-713F-4AD3-9FB0-E9B528B630F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C153C98-713F-4AD3-9FB0-E9B528B630F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C153C98-713F-4AD3-9FB0-E9B528B630F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C153C98-713F-4AD3-9FB0-E9B528B630F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C153C98-713F-4AD3-9FB0-E9B528B630F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4838129C-5016-4A4A-83A0-3F43D0DE2501}
+	EndGlobalSection
+EndGlobal
